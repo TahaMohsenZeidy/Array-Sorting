@@ -26,12 +26,14 @@ import matplotlib.pyplot as plt
 ```
 
 ## Screenshots
+![First Screenshot](screenshot1.PNG)
+And here is another one
+![Second Screenshot](screenshot2.PNG)
 
+### you can download the source code and try it yourself !
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

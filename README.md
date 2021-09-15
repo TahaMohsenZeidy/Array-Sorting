@@ -1,4 +1,4 @@
-#  Visualisation of different sorting algorithms out there
+#  Visualization of different sorting algorithms out there
 ## Array Sorting
 This is a Python project that I did to see how sorting algorithms actually work, I used some basic Python libraries from matplotlib and PyQt5 such as QtCore, QtGui and QtWidgets.
 
